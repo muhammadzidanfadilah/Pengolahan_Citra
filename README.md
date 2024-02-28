@@ -1,4 +1,20 @@
+
 # Pengolahan Citra
+
+
+| NIM | 312210277 |
+| --- | --- |
+| NAMA |  MUHAMMAD ZIDAN FADILLAH |
+| KELAS | TI.22.A.2 |
+
+
+
+
+
+
+# Tugas membuat video pada pertemuan 1
+
+# Link video penjelasan mengenai tugas di bawah ini 
 
 | Link YouTube: |  https://youtu.be/8n5zg5zev4M?si=_ig4S311Phidj9na |
 | --- | --- |
