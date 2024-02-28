@@ -1,6 +1,6 @@
 # Pengolahan Citra
 
-| link youtube: |   |
+| Link Youtube: |  https://youtu.be/8n5zg5zev4M?si=_ig4S311Phidj9na |
 | --- | --- |
 
 
