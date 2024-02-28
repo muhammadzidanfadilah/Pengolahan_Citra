@@ -1,3 +1,5 @@
+# Pengolahan Citra
+
 | link youtube: |   |
 | --- | --- |
 
@@ -52,3 +54,7 @@ untuk  hasil dari variable di atas 6 ke samping 5 ke bawah
 print(npArray.shape)
 ```
 untuk mencetak angka 5 dan juga 6
+
+# Hasil
+
+![ala](https://github.com/muhammadzidanfadilah/Pengolahan_Citra/assets/115553474/389c4c9f-0ebd-40a1-895e-502660d1eb2d)
