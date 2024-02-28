@@ -4,7 +4,7 @@
 | --- | --- |
 
 
-# Tugas yang di minta
+# Tugas 
 
 ```
 import numpy as np
