@@ -1,5 +1,5 @@
 
-# Pengolahan Citra
+# Tugas Pengolahan Citra 1
 
 
 | NIM | 312210277 |
@@ -12,9 +12,9 @@
 
 
 
-# Tugas membuat video pada pertemuan 1
+# Tugas Pada Pertemuan 1
 
-# Link video penjelasan mengenai tugas di bawah ini 
+# Link YouTube video penjelasan mengenai tugas di bawah ini 
 
 | Link YouTube: |  https://youtu.be/8n5zg5zev4M?si=_ig4S311Phidj9na |
 | --- | --- |
